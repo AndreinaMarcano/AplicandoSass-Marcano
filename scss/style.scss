@@ -1,7 +1,6 @@
-@import "variables/general";
-@import "variables/navbar";
-@import "variables/carousel";
-@import "variables/contenido";
-@import "variables/footer";
-
-
+@import "componentes/base/variables";
+@import "componentes/base/general";
+@import "componentes/layout/navbar";
+@import "componentes/layout/carousel";
+@import "componentes/layout/contenido";
+@import "componentes/layout/footer";
